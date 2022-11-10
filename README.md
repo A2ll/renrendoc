@@ -3,4 +3,4 @@ firefox版本：102.4.0esr
 
 geckodriver版本：v0.32.0 https://github.com/mozilla/geckodriver/releases
 
-geckodriver 文件放置于python目录中
+需要main.py中设置geckodriver位置
